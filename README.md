@@ -105,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shant0919/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shant0919/LeetCode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/shant0919/LeetCode-Submissions/tree/master/0938-range-sum-of-bst) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
