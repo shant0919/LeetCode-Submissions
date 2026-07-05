@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shant0919/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shant0919/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/shant0919/LeetCode-Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/shant0919/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/shant0919/LeetCode-Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
