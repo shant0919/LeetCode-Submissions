@@ -110,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/shant0919/LeetCode-Submissions/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/shant0919/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/shant0919/LeetCode-Submissions/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shant0919/LeetCode-Submissions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shant0919/LeetCode-Submissions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
