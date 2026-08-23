@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0896-monotonic-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/0896-monotonic-array) |
 ## Brainteaser
 |  |
 | ------- |
