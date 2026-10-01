@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/0896-monotonic-array) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/shant0919/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
