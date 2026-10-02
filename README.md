@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shant0919/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shant0919/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/shant0919/LeetCode-Submissions/tree/master/0709-to-lower-case) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shant0919/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -154,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shant0919/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shant0919/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
