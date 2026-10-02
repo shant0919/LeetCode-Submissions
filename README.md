@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shant0919/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 ## Sorting
