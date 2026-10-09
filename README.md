@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shant0919/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/0896-monotonic-array) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/shant0919/LeetCode-Submissions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Brainteaser
 |  |
 | ------- |
@@ -206,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shant0919/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/shant0919/LeetCode-Submissions/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Simulation
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/shant0919/LeetCode-Submissions/tree/master/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
