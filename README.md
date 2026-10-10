@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shant0919/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shant0919/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shant0919/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shant0919/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shant0919/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shant0919/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shant0919/LeetCode-Submissions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Simulation
 |  |
