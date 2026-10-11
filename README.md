@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shant0919/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/shant0919/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shant0919/LeetCode-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shant0919/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shant0919/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shant0919/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shant0919/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/shant0919/LeetCode-Submissions/tree/master/0322-coin-change) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shant0919/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shant0919/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
