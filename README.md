@@ -224,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shant0919/LeetCode-Submissions/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shant0919/LeetCode-Submissions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
