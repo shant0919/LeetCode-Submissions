@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shant0919/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/shant0919/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shant0919/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/shant0919/LeetCode-Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/0896-monotonic-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/shant0919/LeetCode-Submissions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Brainteaser
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shant0919/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shant0919/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shant0919/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shant0919/LeetCode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
